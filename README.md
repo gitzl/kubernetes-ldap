@@ -3,7 +3,7 @@ Kubernetes-Ldap-Deploy
 
 include openLdapServer and phpLdapAdmin
 
-## run 
+## Start
 
 ```
 ./start_ldap.sh 
@@ -19,7 +19,7 @@ include openLdapServer and phpLdapAdmin
 ## The Default Admin Account
 
 ```
-user£ºcn=admin,dc=example,dc=org
+name:  cn=admin,dc=example,dc=org
 passworkd: admin
 
 ```
